@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 13)
+    (drawings 14)
     (tracks 80)
     (zones 0)
     (modules 19)
@@ -732,6 +732,7 @@
     )
   )
 
+  (gr_poly (pts (xy 124.333 90.678) (xy 123.063 90.678) (xy 123.063 83.566) (xy 124.333 83.566)) (layer B.Mask) (width 0.1))
   (gr_arc (start 140.462 82.931) (end 140.462 91.44) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 60CA2494))
   (gr_arc (start 143.256 76.2) (end 148.971 76.2) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 123.063 91.44) (end 140.462 91.44) (layer Edge.Cuts) (width 0.05))
