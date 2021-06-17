@@ -1,0 +1,13 @@
+"Item #","*Designator","*Qty","Manufacturer","*Mfg Part#","Description / Value","*Package/Footprint","Type","Your Instructions / Notes"
+
+"1","BT1","1","MYOUNG","MY-2032-06","DIP Battery Accessories/Contacts/Springs RoHS","DIP","thru-hole",""
+"2","C1","1","YAGEO","CC0402KRX7R7BB104","100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","C0402","SMD",""
+"3","C2","1","Samsung Electro-Mechanics","CL05B105KQ5NQNC","1uF ±10% 6.3V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","C0402","SMD",""
+"4","D1","1","Nexperia","BAT54C,215","30V 200mA 800mV @ 100mA SOT-23(SOT-23-3) Schottky Barrier Diodes (SBD) RoHS","SOT-23(SOT-23-3)","SMD",""
+"5","DD1","1","STMicroelectronics","STM32G030F6P6TR","TSSOP-20 ST Microelectronics RoHS","TSSOP-20","SMD",""
+"6","Q1,Q2","2","Guangdong Hottech","SI2302","N-Channel 20V 2.1A 1.2V @ 50uA 72mΩ @ 3.6A,4.5V 400mW SOT-23(SOT-23-3) MOSFETs RoHS","SOT-23(SOT-23-3)","SMD",""
+"7","R1","1","YAGEO","RC0402JR-0710KL","10kΩ ±5% 1/16W ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS","R0402","SMD",""
+"8","R2","1","UNI-ROYAL(Uniroyal Elec)","0805W8J0511T5E","510Ω ±5% 0.125W ±100ppm/℃ 0805 Chip Resistor - Surface Mount RoHS","R0805","SMD",""
+"9","R3","1","ROHM Semicon","MCR10ERTF2000","200Ω ±1% 0.125W ±200ppm/℃ 0805 Chip Resistor - Surface Mount RoHS","R0805","SMD",""
+"10","R4","1","TyoHM","RMC080510M1%N","10MΩ ±1% 0.125W 0805 Chip Resistor - Surface Mount RoHS","R0805","SMD",""
+"11","SW1","1","G-Switch","MS-22C01-G010","SMD,7.2x3.5x2.5mm Toggle Switches RoHS","SMD,7.2x3.5x2.5mm","SMD",""
