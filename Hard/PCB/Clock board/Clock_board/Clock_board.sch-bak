@@ -21,6 +21,11 @@ F 0 "Q1" H 9004 3346 50  0000 L CNN
 F 1 "SI2302" H 9004 3255 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 9000 3225 50  0001 L CIN
 F 3 "https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf" H 8800 3300 50  0001 L CNN
+F 4 "5" H 8800 3300 50  0001 C CNN "Item #"
+F 5 "N-Channel 20V 2.1A 1.2V @ 50uA 72mΩ @ 3.6A,4.5V 400mW SOT-23(SOT-23-3) MOSFETs RoHS" H 8800 3300 50  0001 C CNN "Description"
+F 6 "Guangdong Hottech" H 8800 3300 50  0001 C CNN "Manufacturer"
+F 7 "SOT-23(SOT-23-3)" H 8800 3300 50  0001 C CNN "Package"
+F 8 "SMD" H 8800 3300 50  0001 C CNN "Type"
 	1    8800 3300
 	1    0    0    -1  
 $EndComp
@@ -32,6 +37,11 @@ F 0 "Q2" H 9704 2846 50  0000 L CNN
 F 1 "SI2302" H 9704 2755 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 9700 2725 50  0001 L CIN
 F 3 "https://www.taiwansemi.com/products/datasheet/TSM2302CX_E1608.pdf" H 9500 2800 50  0001 L CNN
+F 4 "5" H 9500 2800 50  0001 C CNN "Item #"
+F 5 "N-Channel 20V 2.1A 1.2V @ 50uA 72mΩ @ 3.6A,4.5V 400mW SOT-23(SOT-23-3) MOSFETs RoHS" H 9500 2800 50  0001 C CNN "Description"
+F 6 "Guangdong Hottech" H 9500 2800 50  0001 C CNN "Manufacturer"
+F 7 "SOT-23(SOT-23-3)" H 9500 2800 50  0001 C CNN "Package"
+F 8 "SMD" H 9500 2800 50  0001 C CNN "Type"
 	1    9500 2800
 	1    0    0    -1  
 $EndComp
@@ -56,6 +66,11 @@ F 0 "R4" H 8959 2246 50  0000 L CNN
 F 1 "RMC080510M1%N" H 8959 2155 50  0001 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8900 2200 50  0001 C CNN
 F 3 "~" H 8900 2200 50  0001 C CNN
+F 4 "9" H 8900 2200 50  0001 C CNN "Item #"
+F 5 "10MΩ ±1% 0.125W 0805 Chip Resistor - Surface Mount RoHS" H 8900 2200 50  0001 C CNN "Description"
+F 6 "TyoHM" H 8900 2200 50  0001 C CNN "Manufacturer"
+F 7 "R0805" H 8900 2200 50  0001 C CNN "Package"
+F 8 "SMD" H 8900 2200 50  0001 C CNN "Type"
 	1    8900 2200
 	1    0    0    -1  
 $EndComp
@@ -69,6 +84,11 @@ F 0 "R3" V 8204 3300 50  0000 C CNN
 F 1 "MCR10ERTF2000" V 8295 3300 50  0001 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8400 3300 50  0001 C CNN
 F 3 "~" H 8400 3300 50  0001 C CNN
+F 4 "8" H 8400 3300 50  0001 C CNN "Item #"
+F 5 "200Ω ±1% 0.125W ±200ppm/℃ 0805 Chip Resistor - Surface Mount RoHS" H 8400 3300 50  0001 C CNN "Description"
+F 6 "ROHM Semicon" H 8400 3300 50  0001 C CNN "Manufacturer"
+F 7 "R0805" H 8400 3300 50  0001 C CNN "Package"
+F 8 "SMD" H 8400 3300 50  0001 C CNN "Type"
 	1    8400 3300
 	0    1    1    0   
 $EndComp
@@ -105,6 +125,11 @@ F 0 "DD1" H 4750 5565 50  0000 C CNN
 F 1 "STM32G030F6P6TR" H 4750 5474 50  0000 C CNN
 F 2 "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" H 4750 4850 50  0001 C CNN
 F 3 "" H 4750 4850 50  0001 C CNN
+F 4 "4" H 4750 4850 50  0001 C CNN "Item #"
+F 5 "TSSOP-20 ST Microelectronics RoHS" H 4750 4850 50  0001 C CNN "Description"
+F 6 "STMicroelectronics" H 4750 4850 50  0001 C CNN "Manufacturer"
+F 7 "TSSOP-20" H 4750 4850 50  0001 C CNN "Package"
+F 8 "SMD" H 4750 4850 50  0001 C CNN "Type"
 	1    4750 4850
 	1    0    0    -1  
 $EndComp
@@ -115,9 +140,14 @@ L Diode:BAT54C D1
 U 1 1 60CAFDD3
 P 9600 2200
 F 0 "D1" V 9600 2288 50  0000 L CNN
-F 1 "BAT54C, 215" V 9555 2287 50  0001 L CNN
+F 1 "BAT54C,215" V 9555 2287 50  0001 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 9675 2325 50  0001 L CNN
 F 3 "http://www.diodes.com/_files/datasheets/ds11005.pdf" H 9520 2200 50  0001 C CNN
+F 4 "3" H 9600 2200 50  0001 C CNN "Item #"
+F 5 "30V 200mA 800mV @ 100mA SOT-23(SOT-23-3) Schottky Barrier Diodes (SBD) RoHS" H 9600 2200 50  0001 C CNN "Description"
+F 6 "Nexperia" H 9600 2200 50  0001 C CNN "Manufacturer"
+F 7 "SOT-23(SOT-23-3)" H 9600 2200 50  0001 C CNN "Package"
+F 8 "SMD" H 9600 2200 50  0001 C CNN "Type"
 	1    9600 2200
 	0    -1   -1   0   
 $EndComp
@@ -153,6 +183,11 @@ F 0 "R1" H 3359 4396 50  0000 L CNN
 F 1 "RC0402JR-0710KL" H 3359 4305 50  0001 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 3300 4350 50  0001 C CNN
 F 3 "~" H 3300 4350 50  0001 C CNN
+F 4 "6" H 3300 4350 50  0001 C CNN "Item #"
+F 5 "10kΩ ±5% 1/16W ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS" H 3300 4350 50  0001 C CNN "Description"
+F 6 "YAGEO" H 3300 4350 50  0001 C CNN "Manufacturer"
+F 7 "R0402" H 3300 4350 50  0001 C CNN "Package"
+F 8 "SMD" H 3300 4350 50  0001 C CNN "Type"
 	1    3300 4350
 	1    0    0    -1  
 $EndComp
@@ -185,6 +220,11 @@ F 0 "R2" H 6109 4196 50  0000 L CNN
 F 1 "0805W8J0511T5E" H 6109 4105 50  0001 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 6050 4150 50  0001 C CNN
 F 3 "~" H 6050 4150 50  0001 C CNN
+F 4 "7" H 6050 4150 50  0001 C CNN "Item #"
+F 5 "510Ω ±5% 0.125W ±100ppm/℃ 0805 Chip Resistor - Surface Mount RoHS" H 6050 4150 50  0001 C CNN "Description"
+F 6 "UNI-ROYAL(Uniroyal Elec)" H 6050 4150 50  0001 C CNN "Manufacturer"
+F 7 "R0805" H 6050 4150 50  0001 C CNN "Package"
+F 8 "SMD" H 6050 4150 50  0001 C CNN "Type"
 	1    6050 4150
 	1    0    0    1   
 $EndComp
@@ -228,6 +268,8 @@ F 0 "J1" H 4580 2642 50  0000 L CNN
 F 1 "Conn_01x01" H 4580 2551 50  0001 L CNN
 F 2 "connector:custom_connector" H 4500 2600 50  0001 C CNN
 F 3 "~" H 4500 2600 50  0001 C CNN
+F 4 "asd" H 4500 2600 50  0001 C CNN "Manufacturer"
+F 5 "note" H 4500 2600 50  0001 C CNN "Note"
 	1    4500 2600
 	-1   0    0    -1  
 $EndComp
@@ -239,6 +281,8 @@ F 0 "J2" H 4580 2742 50  0000 L CNN
 F 1 "Conn_01x01" H 4580 2651 50  0001 L CNN
 F 2 "connector:custom_connector" H 4500 2700 50  0001 C CNN
 F 3 "~" H 4500 2700 50  0001 C CNN
+F 4 "asd" H 4500 2700 50  0001 C CNN "Manufacturer"
+F 5 "note" H 4500 2700 50  0001 C CNN "Note"
 	1    4500 2700
 	-1   0    0    -1  
 $EndComp
@@ -250,6 +294,8 @@ F 0 "J3" H 4580 2842 50  0000 L CNN
 F 1 "Conn_01x01" H 4580 2751 50  0001 L CNN
 F 2 "connector:custom_connector" H 4500 2800 50  0001 C CNN
 F 3 "~" H 4500 2800 50  0001 C CNN
+F 4 "asd" H 4500 2800 50  0001 C CNN "Manufacturer"
+F 5 "note" H 4500 2800 50  0001 C CNN "Note"
 	1    4500 2800
 	-1   0    0    -1  
 $EndComp
@@ -261,6 +307,8 @@ F 0 "J4" H 4580 2942 50  0000 L CNN
 F 1 "Conn_01x01" H 4580 2851 50  0001 L CNN
 F 2 "connector:custom_connector" H 4500 2900 50  0001 C CNN
 F 3 "~" H 4500 2900 50  0001 C CNN
+F 4 "asd" H 4500 2900 50  0001 C CNN "Manufacturer"
+F 5 "note" H 4500 2900 50  0001 C CNN "Note"
 	1    4500 2900
 	-1   0    0    -1  
 $EndComp
@@ -272,6 +320,8 @@ F 0 "J5" H 4580 3042 50  0000 L CNN
 F 1 "Conn_01x01" H 4580 2951 50  0001 L CNN
 F 2 "connector:custom_connector" H 4500 3000 50  0001 C CNN
 F 3 "~" H 4500 3000 50  0001 C CNN
+F 4 "asd" H 4500 3000 50  0001 C CNN "Manufacturer"
+F 5 "note" H 4500 3000 50  0001 C CNN "Note"
 	1    4500 3000
 	-1   0    0    -1  
 $EndComp
@@ -283,6 +333,8 @@ F 0 "J6" H 4580 3142 50  0000 L CNN
 F 1 "Conn_01x01" H 4580 3051 50  0001 L CNN
 F 2 "connector:custom_connector" H 4500 3100 50  0001 C CNN
 F 3 "~" H 4500 3100 50  0001 C CNN
+F 4 "asd" H 4500 3100 50  0001 C CNN "Manufacturer"
+F 5 "note" H 4500 3100 50  0001 C CNN "Note"
 	1    4500 3100
 	-1   0    0    -1  
 $EndComp
@@ -369,9 +421,15 @@ L Device:Battery_Cell BT1
 U 1 1 60CF9DCA
 P 8150 5100
 F 0 "BT1" H 8268 5196 50  0000 L CNN
-F 1 "Battery_Cell" H 8268 5105 50  0000 L CNN
+F 1 "MY-2032-06" H 8268 5105 50  0000 L CNN
 F 2 "mechanical:cr2032_holder" V 8150 5160 50  0001 C CNN
 F 3 "~" V 8150 5160 50  0001 C CNN
+F 4 "11" H 8150 5100 50  0001 C CNN "Item #"
+F 5 " " H 8150 5100 50  0001 C CNN "Note"
+F 6 "thru-hole" H 8150 5100 50  0001 C CNN "Type"
+F 7 "DIP Battery Accessories/Contacts/Springs RoHS" H 8150 5100 50  0001 C CNN "Description"
+F 8 "MYOUNG" H 8150 5100 50  0001 C CNN "Manufacturer"
+F 9 "DIP" H 8150 5100 50  0001 C CNN "Package"
 	1    8150 5100
 	1    0    0    -1  
 $EndComp
@@ -382,13 +440,18 @@ Wire Wire Line
 $Comp
 L Switch:SW_DPDT_x2 SW1
 U 1 1 60D1FC06
-P 8850 4750
-F 0 "SW1" H 8850 5035 50  0000 C CNN
-F 1 "SW_DPDT_x2" H 8850 4944 50  0000 C CNN
-F 2 "mechanical:switch_ms-22c01" H 8850 4750 50  0001 C CNN
-F 3 "~" H 8850 4750 50  0001 C CNN
-	1    8850 4750
-	1    0    0    -1  
+P 8850 4650
+F 0 "SW1" H 8850 4935 50  0000 C CNN
+F 1 "MS-22C01-G010" H 8850 4844 50  0000 C CNN
+F 2 "mechanical:switch_ms-22c01" H 8850 4650 50  0001 C CNN
+F 3 "~" H 8850 4650 50  0001 C CNN
+F 4 "10" H 8850 4650 50  0001 C CNN "Item #"
+F 5 "SMD,7.2x3.5x2.5mm Toggle Switches RoHS" H 8850 4650 50  0001 C CNN "Description"
+F 6 "G-Switch" H 8850 4650 50  0001 C CNN "Manufacturer"
+F 7 "SMD,7.2x3.5x2.5mm" H 8850 4650 50  0001 C CNN "Package"
+F 8 "SMD" H 8850 4650 50  0001 C CNN "Type"
+	1    8850 4650
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	2800 4700 3700 4700
@@ -405,6 +468,11 @@ F 0 "C2" H 2892 4900 50  0000 L CNN
 F 1 "CL05B105KQ5NQNC" H 2892 4855 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2800 4900 50  0001 C CNN
 F 3 "~" H 2800 4900 50  0001 C CNN
+F 4 "2" H 2800 4900 50  0001 C CNN "Item #"
+F 5 "1uF ±10% 6.3V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 2800 4900 50  0001 C CNN "Description"
+F 6 "Samsung Electro-Mechanics" H 2800 4900 50  0001 C CNN "Manufacturer"
+F 7 "C0402" H 2800 4900 50  0001 C CNN "Package"
+F 8 "SMD" H 2800 4900 50  0001 C CNN "Type"
 	1    2800 4900
 	1    0    0    -1  
 $EndComp
@@ -444,6 +512,11 @@ F 0 "C1" H 2592 4900 50  0000 L CNN
 F 1 "CC0402KRX7R7BB104" H 2592 4855 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 2500 4900 50  0001 C CNN
 F 3 "~" H 2500 4900 50  0001 C CNN
+F 4 "1" H 2500 4900 50  0001 C CNN "Item #"
+F 5 "100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS" H 2500 4900 50  0001 C CNN "Description"
+F 6 "C0402" H 2500 4900 50  0001 C CNN "Package"
+F 7 "SMD" H 2500 4900 50  0001 C CNN "Type"
+F 8 "YAGEO" H 2500 4900 50  0001 C CNN "Manufacturer"
 	1    2500 4900
 	1    0    0    -1  
 $EndComp

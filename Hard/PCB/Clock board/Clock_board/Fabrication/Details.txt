@@ -1,0 +1,76 @@
+link		https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics-STM32G030F6P6TR_C529330.html
+Manufacturer	STMicroelectronics
+Mfr.Part #	STM32G030F6P6TR
+LCSC Part #	C529330
+Package		TSSOP-20
+desc		TSSOP-20 ST Microelectronics RoHS
+
+link		https://lcsc.com/product-detail/MOSFETs_Guangdong-Hottech-SI2302_C181087.html
+Manufacturer	Guangdong Hottech
+Mfr.Part #	SI2302
+LCSC Part #	C181087
+Package		SOT-23(SOT-23-3)
+desc		N-Channel 20V 2.1A 1.2V @ 50uA 72mΩ @ 3.6A,4.5V 400mW SOT-23(SOT-23-3) MOSFETs RoHS
+
+link		https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_TyoHM-RMC080510M1-N_C325949.html
+Manufacturer	TyoHM
+Mfr.Part #	RMC080510M1%N
+LCSC Part #	C325949
+Package		0805
+desc		10MΩ ±1% 0.125W 0805 Chip Resistor - Surface Mount RoHS
+
+link		https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_ROHM-Semicon-MCR10ERTF2000_C224827.html
+Manufacturer	ROHM Semicon
+Mfr.Part #	MCR10ERTF2000
+LCSC Part #	C224827
+Package		0805
+desc		200Ω ±1% 0.125W ±200ppm/℃ 0805 Chip Resistor - Surface Mount RoHS
+
+link		https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0511T5E_C25317.html
+Manufacturer	UNI-ROYAL(Uniroyal Elec)
+Mfr.Part #	0805W8J0511T5E
+LCSC Part #	C25317
+Package		0805
+desc		510Ω ±5% 0.125W ±100ppm/℃ 0805 Chip Resistor - Surface Mount RoHS
+
+link		https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Nexperia-BAT54C-215_C37704.html
+Manufacturer	Nexperia
+Mfr.Part #	BAT54C,215
+LCSC Part #	C37704
+Package		SOT-23(SOT-23-3)
+desc		30V 200mA 800mV @ 100mA SOT-23(SOT-23-3) Schottky Barrier Diodes (SBD) RoHS
+
+link		https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-103-5_C60489.html
+Manufacturer	YAGEO
+Mfr.Part #	RC0402JR-0710KL
+LCSC Part #	C60489
+Package		0402
+desc		10kΩ ±5% 1/16W ±100ppm/℃ 0402 Chip Resistor - Surface Mount RoHS
+
+link		https://lcsc.com/product-detail/Battery-Accessories-Contacts-Springs_MYOUNG-MY-2032-06_C964823.html
+Manufacturer	MYOUNG
+Mfr.Part #	MY-2032-06
+LCSC Part #	C964823
+Package		DIP
+desc		DIP Battery Accessories/Contacts/Springs RoHS
+
+link		https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05B105KQ5NQNC_C307427.html
+Manufacturer	Samsung Electro-Mechanics
+Mfr.Part #	CL05B105KQ5NQNC
+LCSC Part #	C307427
+Package		0402
+desc		1uF ±10% 6.3V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+
+link		https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R7BB104_C60474.html
+Manufacturer	YAGEO
+Mfr.Part #	CC0402KRX7R7BB104
+LCSC Part #	C60474
+Package		0402
+desc		100nF ±10% 16V X7R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+
+link		https://lcsc.com/product-detail/Toggle-Switches_G-Switch-MS-22C01-G010_C2837066.html
+Manufacturer	G-Switch
+Mfr.Part #	MS-22C01-G010
+LCSC Part #	C2837066
+Package		SMD,7.2x3.5x2.5mm
+link		SMD,7.2x3.5x2.5mm Toggle Switches RoHS
